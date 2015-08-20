@@ -1,0 +1,6 @@
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\EGON\bin\Debug\EGON.exe.config
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\EGON\bin\Debug\EGON.exe
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\EGON\bin\Debug\EGON.pdb
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\EGON\obj\Debug\EGON.csprojResolveAssemblyReference.cache
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\EGON\obj\Debug\EGON.exe
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\EGON\obj\Debug\EGON.pdb

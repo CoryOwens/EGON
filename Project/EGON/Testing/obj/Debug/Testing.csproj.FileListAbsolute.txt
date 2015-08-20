@@ -1,0 +1,7 @@
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\Testing\bin\Debug\Testing.dll
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\Testing\bin\Debug\Testing.pdb
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\Testing\bin\Debug\EGON.exe
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\Testing\bin\Debug\EGON.pdb
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\Testing\obj\Debug\Testing.dll
+C:\Users\cory\workspace\Repositories\Github\EGON\Project\EGON\Testing\obj\Debug\Testing.pdb
